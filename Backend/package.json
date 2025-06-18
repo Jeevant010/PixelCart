@@ -1,0 +1,24 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "This is a project to try our skill that how far we can create a full stack website",
+  "homepage": "https://github.com/Jeevant010/PixelCart#readme",
+  "bugs": {
+    "url": "https://github.com/Jeevant010/PixelCart/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jeevant010/PixelCart.git"
+  },
+  "license": "ISC",
+  "author": "Jeevant & Lakshya",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0"
+  }
+}
